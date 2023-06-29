@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account. - 20230627 </p>
     <hr>
 
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Enter Name Test-2</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
     <br>
 
